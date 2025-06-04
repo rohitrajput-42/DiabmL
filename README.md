@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project is a machine learning web application built with **Django** and **Django REST Framework** for the role of Python Developer at **ThamZeal International**.
+This project is a machine learning web application built with **Django** and **Django REST Framework**.
 
 **Objectives:**
 
